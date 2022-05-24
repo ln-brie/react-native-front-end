@@ -1,0 +1,159 @@
+{
+    "nhits": 4,
+    "parameters": {
+        "dataset": "musees-de-france-base-museofile",
+        "timezone": "UTC",
+        "q": "Angers",
+        "rows": 10,
+        "start": 0,
+        "format": "json"
+    },
+    "records": [{
+            "datasetid": "musees-de-france-base-museofile",
+            "recordid": "568ff4a349fa70f2ffaf3ee3c2db6949ab304db6",
+            "fields": {
+                "hist": "Les collections rassemblent des oeuvres qui situent la tapisserie et l'art textile dans l'histoire. L'accrochage, réparti en deux lieux, suit le fil de la tapisserie des années 1930 jusqu'aux démarches les plus contemporaines.",
+                "adrl1_m": "4 boulevard Arago",
+                "dpt": "Maine-et-Loire",
+                "artiste": "Jean Lurçat, Thomas Gleb, Grau-Garriga",
+                "ref": "M0751",
+                "region": "Pays-de-la-Loire",
+                "prot_bat": "Classement au titre des Monuments Historiques",
+                "interet": "L'hôpital Saint-Jean d'Angers est l'un des plus anciens témoins de l'architecture hospitalière française. La salle des malades, édifice majeur de l'art gothique de l'Ouest de la France, forme avec la chapelle, le cloître et les greniers un remarquable ensemble médiéval civil.",
+                "themes": "Arts textiles;Beaux-arts",
+                "geolocalisation": [
+                    47.477759,
+                    -0.557052
+                ],
+                "url_m": "www.musees.angers.fr",
+                "ville_m": "Angers",
+                "dompal": "Arts décoratifs;Art moderne et contemporain",
+                "tel_m": "02 41 24 18 45",
+                "nomoff": "musée Jean Lurçat et de la tapisserie contemporaine",
+                "dt_saisi": "2019-01-21",
+                "lieu_m": "Hôpital Saint-Jean",
+                "phare": "Jean Lurçat, Thomas Gleb et Josep Grau-Garriga.",
+                "atout": "L'hôpital Saint-Jean, remarquable ensemble architectural du XIIe siècle, abrite depuis 1968, dans l'ancienne salle des malades « le Chant du Monde » de Jean Lurçat (1957-1966). Manifeste d'un artiste engagé, écho contemporain à la tenture de « L'Apocalypse », cet ensemble de dix tapisseries constitue une vision épique, poétique, symbolique et humaniste du 20e siècle. Le bâtiment de l'ancien orphelinat (17e siècle), est transformé en espaces muséographiques, depuis 1986. Les tapisseries, peintures, dessins et céramiques de Jean Lurçat viennent compléter la présentation de cet artiste majeur de la renaissance de la tapisserie française. De récentes donations permettent de présenter des artistes importants de l'art textile comme Thomas Gleb (1912-1991) ou Grau-Garriga (1929-2011). Des expositions temporaires entrent en écho, toute l'année, avec les collections permanentes.",
+                "cp_m": "49100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.557052,
+                    47.477759
+                ]
+            },
+            "record_timestamp": "2020-11-26T17:02:52.974000+00:00"
+        },
+        {
+            "datasetid": "musees-de-france-base-museofile",
+            "recordid": "efec779df4dd980956cf4797152284deb8c9b89c",
+            "fields": {
+                "hist": "Le riche cabinet d’antiques léguées par le comte Turpin de Crissé en 1859, installées de façon précaire au musée des Beaux-Arts, furent transportées en 1889 à dans l'hôtel de Pincé, acquis par le peintre angevin Bodinier et légué à la ville en 1861 pour en faire un musée. Ces collections, enrichis par de nombreux dons, ont été réorganisées et remaniées après la deuxième Guerre Mondiale, dans une présentation par grandes civilisations.",
+                "dpt": "Maine-et-Loire",
+                "ref": "M0749",
+                "region": "Pays-de-la-Loire",
+                "prot_bat": "Classement au titre des Monuments Historiques",
+                "interet": "Hôtel particulier remarquable de la première Renaissance française.",
+                "themes": "Antiquités étrangères : Grecques et romaines, Egyptiennes;Arts décoratifs : Céramique, Mobilier (Renaissance), Orfèvrerie, Verrerie;Civilisations extra-européennes : Asiatiques (Estampes japonaises, céramiques chinoises et japonaises, bronzes archaïque chinois);Ethnologie (précolonbienne)",
+                "geolocalisation": [
+                    47.471767,
+                    -0.551841
+                ],
+                "url_m": "www.musees.angers.fr",
+                "ville_m": "Angers",
+                "dompal": "Archéologie;Arts décoratifs;Beaux-arts;Civilisations extra-européennes",
+                "tel_m": "02 41 05 38 00",
+                "nomoff": "musée Pincé",
+                "dt_saisi": "2019-01-21",
+                "adrl1_m": "32 bis rue Lenepveu",
+                "phare": "Les donateurs angevins, collectionneurs-voyageurs du 19e siècle, qui ont rassemblé un ensemble d’objets caractéristiques du goût pour l’Ailleurs au 19e siècle : Turpin de Crissé, Saint-Genys, Fouquet, Bertou, Boban.",
+                "atout": "Antiquités égyptiennes et gréco-romaines (riche cabinet d’antiques), Art d’Extrême-Orient, notamment remarquable collection d’estampes japonaises (La Vague, Hokusaï)",
+                "cp_m": "49100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.551841,
+                    47.471767
+                ]
+            },
+            "record_timestamp": "2020-11-26T17:02:52.974000+00:00"
+        },
+        {
+            "datasetid": "musees-de-france-base-museofile",
+            "recordid": "f41298b04691ef63038a76bed7d33b9d7edf3e5f",
+            "fields": {
+                "cp_m": "49100",
+                "hist": "Installé depuis 1797 au Logis Barrault, édifié en 1493 pour Olivier Barrault, le fonds du musée Beaux-Arts est constitué à l'origine par les envois de l'État, en 1799, la confiscation d'une partie de la collection revenant à un des héritiers de Pierre-Louis de Livois, et de dons, notamment ceux du sculpteur David d'Angers (né à Angers en 1788), de legs de Lancelot-Théodore Turpin de Crissé, de Guillaume Bodinier, de Saint-Genys, et d'acquisitions. Le parcours Histoire d'Angers évoque l'occupation et le développement du site urbain, du Néolithique à nos jours. Les pièces présentées proviennent de fouilles archéologiques anciennes ou plus récentes, de collections d'objets d'art, de documents de provenance ou d'intérêt local de l'ancien musée d'antiquités Saint-Jean et Toussaint. Daniel Duclaux, riche industriel et amateur passionné d'art lègue à la Ville d'Angers sa collection en 2003 qui est présentée au musée-château de Villevêque et en partie dans le parcours Beaux-Arts du musée des Beaux-Arts d'Angers. Depuis 1984, l'abbatiale Toussaint restaurée accueille les oeuvres du sculpteur David d'Angers (1788-1856). En raison des dons multiples et réguliers de l'artiste à sa ville natale, la collection du musée est impressionnante : sculptures monumentales, bas-reliefs, bustes, médaillons et dessins. La genèse de l'oeuvre est perceptible grâce aux esquisses dessinées et modelées et aux plâtres originaux. Pour faciliter la compréhension de l'oeuvre de David d'Angers et des enjeux de la sculpture, des rendez-vous réguliers sont proposés : des parcours commentés, des activités nomades, des expositions-dossier...",
+                "adrl1_m": "14 rue du musée, 33 bis rue Toussaint",
+                "nomusage": "Musée des Beaux-Arts",
+                "artiste": "Hendrick van Balen et Jan Brueghel de Velours, Phlippe de Champaigne, Lorenzo Lippi, Chardin, Watteau, Boucher, Fragonard, Jean-François de Troy, Greuze, Vincent, Guérin, Ingres, Guillaume Bodinier, Monet, Morrelet.",
+                "ref": "M0748",
+                "region": "Pays-de-la-Loire",
+                "prot_bat": "Classement au titre des Monuments Historiques ; Inscription à l'Inventaire supplémentaire des Monuments Historiques",
+                "interet": "Le plus ancien bâtiment du musée des beaux-arts est un hôtel particulier dit \"Logis Barrault\", classé monument historique, qui fut édifié entre 1486 et 1493. Antérieures aux guerres d'Italie, les façades illustrent les derniers fastes du gothique flamboyant, tandis que le plan entre cour et jardin annonce la Renaissance française. La galerie Davis d'Angers se trouve dans l'ancienne église de l'abbaye Toussaint. Le bâtiment est restauré en 1981 en préservant le caractère de ruine de l'édifice, une couverture en verre est installée sur une charpente en bois sous laquelle est installée la Galerie David d'Angers.",
+                "themes": "Architecture et urbanisme;Art moderne et contemporain;Arts décoratifs : Céramique, Mobilier, Orfèvrerie, Verrerie;Beaux-Arts : Dessin, Estampe et Affiche, Peinture, Sculpture;Fonds ancien d imprimés, Manuscrits, incunables, Moulages, Numismatique, Ouvrages de bibliophilie;Histoire : Histoire locale et régionale",
+                "geolocalisation": [
+                    47.469659,
+                    -0.555485
+                ],
+                "url_m": "www.musees.angers.fr",
+                "ville_m": "Angers",
+                "dompal": "Archéologie;Arts décoratifs;Art moderne et contemporain;Beaux-arts;Ethnologie;Histoire;Photographie;Technique et industrie",
+                "tel_m": "02 41 05 38 94 ; 02 41 05 38 90",
+                "nomoff": "musée des beaux-arts et galerie David-d'Angers",
+                "dt_saisi": "2019-01-21",
+                "lieu_m": "Logis Barrault",
+                "phare": "Hendrick van Balen et Jan Brueghel de Velours, Philippe de Champaigne, Lebrun, Lorenzo Lippi, Tiepolo, Guardi, Chardin, Watteau, Boucher, Fragonard, Jean-François de Troy, Greuze, Vincent, Guérin, Ingres, Guillaume Bodinier, Daubidny, Jongkind, Boudin, Tremblay, Morellet. David d'Angers.",
+                "atout": "Collections de peintures du XIVe au XXe des écoles italienne, flamande, hollandaise et française. Ensemble de peinture du XVIIIe siècle. Objets d’art du Moyen Âge et de la Renaissance. Collection de sculptures. Art moderne et art contemporain. Parcours présentant l'histoire de la ville d'Angers. La galerie David d’Angers présente la plus riche collection d’oeuvres de David d’Angers, dont ses plâtres originaux.",
+                "dpt": "Maine-et-Loire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.555485,
+                    47.469659
+                ]
+            },
+            "record_timestamp": "2020-11-26T17:02:52.974000+00:00"
+        },
+        {
+            "datasetid": "musees-de-france-base-museofile",
+            "recordid": "d54c576a0661f65095a1971a12b14695dfd14e19",
+            "fields": {
+                "cp_m": "49100",
+                "hist": "Les premières descriptions du muséum d’Angers datent de la fin du XVIIIe siècle et font état d’objets issus de cabinets de curiosité, confisqués par les révolutionnaires. Le but premier était de fournir un matériel pouvant servir de support à l’éducation populaire, ce qui s’est fait rapidement au sein de l’École centrale d’Angers. Ainsi il est fait mention dans des documents conservés aux archives départementales du Maine-et-Loire du cabinet Tessier du Closeau, de la collection Variée Dumesnil ou encore du cabinet Lathan. Ensuite, par l’entremise de La Reveillière-Lépeaux, membre du Directoire, des naturalia ont été cédés à la ville d’Angers pour son musée, provenant du muséum national nouvellement créé. Ainsi, à la première ouverture au public du musée, en 1801, le cabinet d’histoire naturelle était déjà riche d’animaux naturalisés, de fossiles, minéraux, et roches, de coquilles, coraux et insectes. Parallèlement à ces premières acquisitions, dont le but premier était de montrer au public avec pédagogie la grande diversité du vivant à travers les curiosités qu’il recèle, les premiers conservateurs du muséum s’attachèrent à l’enrichir en objets régionaux (Anjou) en lien avec leur expertise professionnelle. C’est ainsi que Renou ou encore Desvaux ont fourni les premières collections paléontologiques et géologiques du Maine-et-Loire. On voit bien ici se dégager deux grands axes en matière de politique d’acquisition : d’une part la découverte des « productions de la nature » dans toute leur diversité et d’autre part la conservation de collections de référence pour l’Anjou. Tout au long du XIXe siècle, dans tous les domaines de l’histoire naturelle, les enrichissements iront dans ces deux directions. Les travaux de la commission de contrôle et de surveillance du muséum d’histoire naturelle (1882-1950) en témoignent. Cette commission discutait non seulement des budgets, de l’entretien, du personnel du muséum mais surtout de l’enrichissement des collections. Tous les dons ou achats y étaient débattus et arbitrés. L’intérêt local primait toujours, ce fût le cas pour la collection paléontologique Soye, première « grosse » collection de fossiles d’intérêt régional acquise en 1885 et dont l’intégration a rendu nécessaire le déménagement d’une partie du muséum dans les locaux de l’ancienne cour d’appel. Mais les raretés, même exotiques, avaient toujours les faveurs des membres : achat d’un spécimen de kakapo chez Sautot (Nantes-1883) ou d’un fossile d’ichtyosaure du gisement d’Holzmaden chez Meyrat (Suisse-1887). La politique d’acquisition menée depuis a permis de répondre à deux exigences que s’est finalement imposé à lui-même cet établissement : une exigence liée à son statut d’établissement scientifique de référence pour la région faisant de lui le gardien de la mémoire locale en matière d’histoire naturelle (collections de référence pour l’Anjou, archives de la biohistoire locale) et une exigence liée à la vocation qui lui est donnée de communiquer sur la diversité du monde naturel tant minéral que vivant auprès de tous les publics en pointant notamment les grands enjeux environnementaux actuels.",
+                "nomusage": "muséum des Sciences Naturelles",
+                "prot_esp": "Aux abords d'un monument historique ; Dans un site patrimonial remarquable ; Dans un site inscrit",
+                "ref": "M7017",
+                "region": "Pays-de-la-Loire",
+                "prot_bat": "Inscription à l'Inventaire supplémentaire des MH (1995)",
+                "interet": "Hôtel Demarie construit entre 1805 et 1810 dans le style néo-classique, sur l'emplacement de l'ancienne église Saint-Michel-du-Tertre. Salle de paléontologie depuis 1885 : ancien palais comtal du XIIIe, puis hôtel de ville, puis Cour d'appel (XIXe).",
+                "themes": "Sciences de la nature : Botanique, Entomologie, Géologie, Herpétologie, Invertébrés (marins), Ichtyologie, Malacologie, Mammalogie, Minéralogie, Ornithologie, Paléontologie.;Sciences et techniques (sciences de l'homme, préhistoire).",
+                "geolocalisation": [
+                    47.473467,
+                    -0.546399
+                ],
+                "url_m": "www.angers.fr/muséum",
+                "ville_m": "Angers",
+                "dompal": "Archéologie;Sciences de la nature;Technique et industrie",
+                "tel_m": "02 41 05 48 50",
+                "nomoff": "muséum des Sciences Naturelles",
+                "dt_saisi": "2019-01-21",
+                "adrl1_m": "43 rue Jules Guitton",
+                "phare": "La Reveillière Lépeaux, Renou, Desvaux, Millet de la Turtaudière, Couffon, Gruet, Lardeux, Pillet, Boreau, Lloyd, Préaubert.",
+                "atout": "Paléontologie : fossiles de l'Anjou issus de tous les niveaux géologiques rencontrés dans le département parmi lesquels trilobites du Primaire, ammonites du Secondaire, dents de requin et mammifères du Tertiaire. La pièce majeure est un squelette complet de Metaxytherium (sirénien du tertiaire). Nombreux spécimens onymophorontes. Minéralogie : météorite d'Angers, quartz aciculaire radié, minéraux de Madagascar, minéralogie locale. Préhistoire : outils lithiques et faune quaternaire, gisement moustérien de Roc-en-Pail (Maine-et-Loire). Zoologie : mâchoires de baleine, oiseaux disparus, oeuf d'aepyornis, patte de moa (apparentés à l'autruche), perruche de Caroline, pigeon migrateur américain. Nombreux spécimens d'espèces rares ou menacées. Collections de références pour la faune locale (ornithologie, mammalogie, entomologie, malacologie). Botanique : collection de niveau national comportant plus de 350 000 spécimens. Référence pour la flore locale et du centre de la France. Herbiers patrimoniaux.",
+                "dpt": "Maine-et-Loire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.546399,
+                    47.473467
+                ]
+            },
+            "record_timestamp": "2020-11-26T17:02:52.974000+00:00"
+        }
+    ]
+}

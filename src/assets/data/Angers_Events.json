@@ -1,0 +1,342 @@
+{
+    "nhits": 2462,
+    "parameters": {
+        "dataset": "evenements-publics-cibul",
+        "timezone": "UTC",
+        "q": "angers",
+        "rows": 10,
+        "start": 0,
+        "format": "json"
+    },
+    "records": [{
+            "datasetid": "evenements-publics-cibul",
+            "recordid": "e50bbe06be308ef87feabe5f26d7c5a0e78b8715",
+            "fields": {
+                "latlon": [
+                    47.469778,
+                    -0.554379
+                ],
+                "city": "Angers",
+                "date_start": "2018-09-06",
+                "uid": "70790142",
+                "tags": "AngersFrenchTech,Angers,IOT",
+                "pricing_info": "Sur inscription",
+                "image": "http://cibul.s3.amazonaws.com/event_meetup-angersfrenchtech_477047.jpg",
+                "title": "Meetup #AngersFrenchTech",
+                "updated_at": "2018-08-24T14:21:18+00:00",
+                "space_time_info": "Café des Orfèvres, le jeudi 6 septembre 2018 à 08:30",
+                "description": "2ème Meetup de l'écosystème #AngersFrenchTech",
+                "timetable": "2018-09-06T08:30:00 2018-09-06T10:30:00",
+                "image_thumb": "http://cibul.s3.amazonaws.com/evtbevent_meetup-angersfrenchtech_477047.jpg",
+                "link": "http://openagenda.com/event/meetup-angersfrenchtech",
+                "free_text": "La Coopérative #AngersFrenchTech a le plaisir de vous convier au 2ème Meetup Angers French Tech, axé sur l'innovation. L'événement aura lieu le 6 Septembre 2018 de 8h30 à 10h30 au Café des Orfèvres, à Angers. C'est l'occasion de rencontrer les acteurs du territoire angevin qui innovent, qu'ils soient porteurs de projets, start-up, consultants, entreprises établies, associations, acteurs de la collectivité.... autour d'un café et de viennoiseries. A cette occasion plusieurs présentations (format court de pitchs d’environ 10 mn) sont proposées concernant des dispositifs d'accompagnement ou de mise en lumière des initiatives d'innovation. Programme de la matinée à venir. Inscrivez-vous dès maintenant !",
+                "address": "14 Rue du Musée, 49100 Angers",
+                "department": "Maine-et-Loire",
+                "placename": "Café des Orfèvres",
+                "region": "Pays de la Loire",
+                "date_end": "2018-09-06",
+                "lang": "fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.554379,
+                    47.469778
+                ]
+            },
+            "record_timestamp": "2018-08-24T14:21:18+00:00"
+        },
+        {
+            "datasetid": "evenements-publics-cibul",
+            "recordid": "9fd1d30afbcaa8873cba160a3951eb52b8b76e8e",
+            "fields": {
+                "latlon": [
+                    47.471138,
+                    -0.551939
+                ],
+                "city": "Angers",
+                "date_start": "2018-11-13",
+                "uid": "60871227",
+                "tags": "AngersFrenchTech,IOT,Angers,Start-ups,ConnectedWeek",
+                "pricing_info": "Sur inscription",
+                "image": "http://cibul.s3.amazonaws.com/event_meetup-angersfrenchtech_987_142458.jpg",
+                "title": "Meetup #AngersFrenchTech",
+                "updated_at": "2018-11-08T13:29:32+00:00",
+                "space_time_info": "Foyer du Grand Théâtre, le mardi 13 novembre 2018 à 08:30",
+                "description": "3ème Meetup de l'écosystème #AngersFrenchTech",
+                "timetable": "2018-11-13T08:30:00 2018-11-13T10:30:00",
+                "image_thumb": "http://cibul.s3.amazonaws.com/evtbevent_meetup-angersfrenchtech_987_142458.jpg",
+                "link": "http://openagenda.com/event/meetup-angersfrenchtech_987",
+                "free_text": "La Coopérative #AngersFrenchTech a le plaisir de vous convier au **3ème Meetup Angers French Tech,** axé sur l'innovation. L'événement aura lieu le **13 novembre 2018 de 8h30 à 10h30, au Foyer du Grand Théâtre, à Angers.** **Thème : les start-ups du territoire angevin** C'est l'occasion de rencontrer les acteurs du territoire angevin qui innovent autour d'un café et de viennoiseries. **PROGRAMME** 8h30 - 9h : Accueil des participants autour d'un petit déjeuner 9h - 10h : Présentations * Concours/Hackathon AGreen Startup par François Gobert * Start-up : Yoomonkeez par Vincent Caltabellotta * Start-up : Animaco par Grégoire Lockhart * Start-up : Aptimize par Matthieu Carpentier & Armand Sachot * Opération Renard par Elodie Douaglin * Programme de la Connected Week par Yoann Digue * Labellisation French Tech par Yannick Bourdin 10h - 10h30 : Networking (café et viennoiseries)",
+                "address": "Place du Ralliement, 49100 Angers",
+                "department": "Maine-et-Loire",
+                "placename": "Foyer du Grand Théâtre",
+                "region": "Pays de la Loire",
+                "date_end": "2018-11-13",
+                "lang": "fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.551939,
+                    47.471138
+                ]
+            },
+            "record_timestamp": "2018-11-08T13:29:32+00:00"
+        },
+        {
+            "datasetid": "evenements-publics-cibul",
+            "recordid": "db2b89cbb32f7d037aaf3026b02f6ecda504c68a",
+            "fields": {
+                "latlon": [
+                    47.474778,
+                    -0.554791
+                ],
+                "city": "Angers",
+                "date_start": "2019-02-26",
+                "uid": "174605",
+                "tags": "Ecosystème,Innovation,Angers",
+                "pricing_info": "Sur inscription",
+                "image": "http://cibul.s3.amazonaws.com/event_4eme-meetup-angersfrenchtech_376462.jpg",
+                "title": "4ème Meetup #AngersFrenchTech",
+                "updated_at": "2019-02-18T10:06:34+00:00",
+                "space_time_info": "Tiers Lieu Angers French Tech, le mardi 26 février 2019 à 08:30",
+                "description": "Format court de pitchs de 10 minutes",
+                "timetable": "2019-02-26T08:30:00 2019-02-26T10:30:00",
+                "image_thumb": "http://cibul.s3.amazonaws.com/evtbevent_4eme-meetup-angersfrenchtech_376462.jpg",
+                "link": "http://openagenda.com/event/4eme-meetup-angersfrenchtech",
+                "free_text": "La Coopérative #AngersFrenchTech a le plaisir de vous convier au **4ème Meetup Angers French Tech**. C'est l'occasion de rencontrer les acteurs du territoire angevin qui innovent autour d'un café et de viennoiseries. L'événement aura lieu le **mardi 26 février 2019 de 8h30 à 10h30** au Tiers Lieu Angers French Tech. A cette occasion plusieurs présentations (format court de pitchs d’environ 10 minutes) sont proposées concernant des dispositifs d'accompagnement ou de mise en lumière des initiatives d'innovation. **Programme** 8h30 - 9h : Accueil des participants autour d'un petit-déjeuner 9h - 10h : Présentations _Introduction_ par Michel Perrinet * Technocampus – We Network par Sébastien Rospide & Julien Fillaud * Fablab - ISTIA par Laurent Bordet * Offre « Voyageur » pour la Semaine Numérique de Québec par Yoann Digue et retour d'expérience d'Arthur Cougé * Start-up : Cottos Médical par Benjamin Cosse * Les Rencontres de l’Innovation Touristique par Laure Printemps * Tiers Lieu Angers French Tech par la Coopérative #AngersFrenchTech _Agenda_ 10h - 10h30 : Networking (café & viennoiseries) Inscrivez-vous vite !",
+                "address": "36 rue Thiers, 49100 Angers",
+                "department": "Maine-et-Loire",
+                "placename": "Tiers Lieu Angers French Tech",
+                "region": "Pays de la Loire",
+                "date_end": "2019-02-26",
+                "lang": "fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.554791,
+                    47.474778
+                ]
+            },
+            "record_timestamp": "2019-02-18T10:06:34+00:00"
+        },
+        {
+            "datasetid": "evenements-publics-cibul",
+            "recordid": "b3b60ddc75770cfe8cb3cf372d87d2c4006d72e4",
+            "fields": {
+                "latlon": [
+                    47.478618,
+                    -0.560129
+                ],
+                "city": "Angers",
+                "date_start": "2020-09-19",
+                "uid": "86072345",
+                "placename": "Hôtel Drouet",
+                "description": "Présentation de la façade sud donnant sur la Place de la Paix et de l’histoire de l’édifice",
+                "title": "Découverte à l'Hôtel Drouet",
+                "updated_at": "2020-08-06T02:35:45+00:00",
+                "space_time_info": "du samedi 19 septembre au dimanche 20 septembre à Hôtel Drouet",
+                "timetable": "2020-09-19T14:00:00 2020-09-19T18:00:00;2020-09-20T10:00:00 2020-09-20T12:00:00;2020-09-20T14:00:00 2020-09-20T18:00:00",
+                "date_end": "2020-09-20",
+                "link": "http://openagenda.com/event/decouverte-a-lhotel-drouet",
+                "address": "7, place de la Paix, 49000 Angers",
+                "department": "Maine-et-Loire",
+                "region": "Pays de la Loire",
+                "lang": "fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.560129,
+                    47.478618
+                ]
+            },
+            "record_timestamp": "2020-08-06T02:35:45+00:00"
+        },
+        {
+            "datasetid": "evenements-publics-cibul",
+            "recordid": "2f3c1f3bd2034a9647d4878b804b3017b12c90b9",
+            "fields": {
+                "latlon": [
+                    47.471077,
+                    -0.544283
+                ],
+                "city": "Angers",
+                "date_start": "2020-09-19",
+                "uid": "59542789",
+                "placename": "Palais de justice ANGERS",
+                "pricing_info": "La tenue des tables ronde est soumise à la confirmation de participation des intervenants. Le nombre de place disponible à la réservation pourra varier selon la doctrine sanitaire en vigueur lors de l'événement.",
+                "description": "\"Stand métiers justice\" Présentation des métiers du droit : juge, avocat, greffier.",
+                "title": "Stand métiers au Palais de Justice d'Angers",
+                "updated_at": "2020-08-06T02:29:55+00:00",
+                "space_time_info": "Palais de justice ANGERS, le samedi 19 septembre à 10:00",
+                "timetable": "2020-09-19T10:00:00 2020-09-19T17:30:00",
+                "date_end": "2020-09-19",
+                "city_district": "Le Port de l'Île",
+                "link": "http://openagenda.com/event/stand-metiers-au-palais-de-justice-dangers",
+                "address": "rue Waldeck Rousseau - 49043 Angers",
+                "department": "Maine-et-Loire",
+                "region": "Pays de la Loire",
+                "lang": "fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.544283,
+                    47.471077
+                ]
+            },
+            "record_timestamp": "2020-08-06T02:29:55+00:00"
+        },
+        {
+            "datasetid": "evenements-publics-cibul",
+            "recordid": "af4d43bdfe46888797e1cc189fc353f0fb0d0590",
+            "fields": {
+                "latlon": [
+                    47.468623,
+                    -0.552975
+                ],
+                "city": "Angers",
+                "date_start": "2019-09-22",
+                "uid": "10284669",
+                "tags": "édifice religieux,monument historique",
+                "title": "Visite de l'Hôtel du Département et de la Préfecture",
+                "image": "http://cibul.s3.amazonaws.com/92c21d9790fc455fbf9451d903ee66cb.base.image.jpg",
+                "description": "À Angers, l'ancienne abbaye bénédictine Saint-Aubin vous ouvre ses portes : visite de la terrasse du bâtiment Foch, animation musicale, marché de l’Anjou, ateliers restauration d'objets...",
+                "updated_at": "2019-08-27T09:37:28+00:00",
+                "space_time_info": "Abbaye Saint-Aubin (actuel hôtel du département - préfecture), le dimanche 22 septembre 2019 à 10:00",
+                "timetable": "2019-09-22T10:00:00 2019-09-22T18:00:00",
+                "image_thumb": "http://cibul.s3.amazonaws.com/evtb92c21d9790fc455fbf9451d903ee66cb.base.image.jpg",
+                "link": "http://openagenda.com/event/visite-de-lhotel-du-departement-et-de-la-prefecture",
+                "free_text": "Découvrez l’ancienne abbaye bénédictine Saint-Aubin abritant le Conseil départemental de Maine-et-Loire et la Préfecture. Remontez le temps en visitant ce site historique de la place angevine, ouvert exceptionnellement au public lors des Journées européennes du patrimoine. Musique, visites, ateliers d'art... il y a plusieurs façon de (re)découvrir les lieux. ### Le programme Visite libre de 10h à 18h Visite guidée (45 min) toutes les heures à partir de 11h (sauf à 13h) Visite de la terrasse du bâtiment Foch et découverte de la vue panoramique (réservation conseillée, disponible sur le site [maine-et-loire.fr](https://www.maine-et-loire.fr/no_cache/actualites/evenements/event/detail/journees-europeennes-du-patrimoine-hotel-du-departement-et-prefecture-1/) en septembre, dans la limite des places disponibles) Animation « Vis ma vie d’élu.e » (réservation conseillée, disponible sur le site [maine-et-loire.fr](https://www.maine-et-loire.fr/no_cache/actualites/evenements/event/detail/journees-europeennes-du-patrimoine-hotel-du-departement-et-prefecture-1/) en septembre) Ateliers de restauration d’objets d’art et autres animations Le Marché de l’Anjou sur la place Michel-Debré Animation musicale « Garçons s'il vous plaît » _Entrée gratuite. Se munir d'une pièce d'identité._",
+                "address": "Place Michel Debré, 49000 Angers",
+                "department": "Maine-et-Loire",
+                "placename": "Abbaye Saint-Aubin (actuel hôtel du département - préfecture)",
+                "region": "Pays de la Loire",
+                "date_end": "2019-09-22",
+                "lang": "fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.552975,
+                    47.468623
+                ]
+            },
+            "record_timestamp": "2019-08-27T09:37:28+00:00"
+        },
+        {
+            "datasetid": "evenements-publics-cibul",
+            "recordid": "a9cc703d866c8fb6c0da62389dc35dfd84b36955",
+            "fields": {
+                "latlon": [
+                    47.47206,
+                    -0.546497
+                ],
+                "city": "Angers",
+                "date_start": "2019-09-21",
+                "uid": "32081410",
+                "placename": "Cercle Notre Dame",
+                "description": "Cercle Notre Dame",
+                "title": "Découverte de la boule de fort",
+                "updated_at": "2019-08-28T15:17:38+00:00",
+                "space_time_info": "du samedi 21 septembre 2019 au dimanche 22 septembre 2019 à Cercle Notre Dame",
+                "timetable": "2019-09-21T09:30:00 2019-09-21T12:30:00;2019-09-21T14:00:00 2019-09-21T19:00:00;2019-09-22T09:30:00 2019-09-22T12:30:00",
+                "date_end": "2019-09-22",
+                "city_district": "Le Port de l'Île",
+                "link": "http://openagenda.com/event/decouverte-de-la-boule-de-fort",
+                "address": "5 rue de l'aubrière 49",
+                "department": "Maine-et-Loire",
+                "region": "Pays de la Loire",
+                "lang": "fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.546497,
+                    47.47206
+                ]
+            },
+            "record_timestamp": "2019-08-28T15:17:38+00:00"
+        },
+        {
+            "datasetid": "evenements-publics-cibul",
+            "recordid": "381fbd87f4963a31b3d196244eb03dcac9e6147f",
+            "fields": {
+                "uid": "11438736",
+                "image": "http://cibul.s3.amazonaws.com/8672cf1158f94355bc299ba0ce87259f.base.image.jpg",
+                "updated_at": "2019-08-02T08:30:11+00:00",
+                "city_district": "Le Port de l'Île",
+                "free_text": "Sur le modèle de « En terre mon slip (kangourou) », une action menée par les agriculteurs depuis 2017, l’ADEME vous propose de petites expériences pour montrer la vie des sols, à faire sur place ou à mettre en place chez soi. Vous pourrez découvrir à cette occasion le résultat de plusieurs tests et découvrir le projet expérimental de grande envergure qui sera lancé au printemps prochain.",
+                "latlon": [
+                    47.471173,
+                    -0.551777
+                ],
+                "city": "Angers",
+                "title": "Sensibilisation à la vie des sols - opération kangourou",
+                "pricing_info": "Entrée libre",
+                "date_start": "2019-10-12",
+                "timetable": "2019-10-12T13:30:00 2019-10-12T18:30:00;2019-10-13T14:00:00 2019-10-13T18:00:00",
+                "image_thumb": "http://cibul.s3.amazonaws.com/evtb8672cf1158f94355bc299ba0ce87259f.base.image.jpg",
+                "date_end": "2019-10-13",
+                "description": "Sur le modèle de « En terre mon slip (kangourou) », l’ADEME vous propose de petites expériences pour montrer la vie des sols, à faire sur place ou à mettre en place chez soi.",
+                "tags": "environnement,pollution,vie,terre,sol,biodiversité",
+                "space_time_info": "du samedi 12 octobre 2019 au dimanche 13 octobre 2019 à Village des Sciences - Grand Théâtre d'Angers",
+                "department": "Maine-et-Loire",
+                "link": "http://openagenda.com/event/sensibilisation-a-la-vie-des-sols-operation-kangourou",
+                "address": "Place du ralliement",
+                "lang": "fr",
+                "placename": "Village des Sciences - Grand Théâtre d'Angers",
+                "region": "Pays de la Loire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.551777,
+                    47.471173
+                ]
+            },
+            "record_timestamp": "2019-08-02T08:30:11+00:00"
+        },
+        {
+            "datasetid": "evenements-publics-cibul",
+            "recordid": "11992d7f7f46627855485e6dda6d44eff06231e3",
+            "fields": {
+                "latlon": [
+                    47.469188,
+                    -0.557119
+                ],
+                "city": "Angers",
+                "date_start": "2020-01-18",
+                "uid": "65150008",
+                "tags": "danse,musique,toussaint,médiathèque,bibliothèque,angers,tarentelle,notes en bulles",
+                "title": "Nuit fantastique à Angers - La Tarentelle",
+                "image": "http://cibul.s3.amazonaws.com/e89b73e6f15d4c11ac1e1c0bbee1eaa0.base.image.jpg",
+                "description": "Venez démarrer la soirée en danse et en musique !",
+                "updated_at": "2019-12-11T11:29:08+00:00",
+                "space_time_info": "le samedi 18 janvier à Médiathèque Toussaint",
+                "timetable": "2020-01-18T20:00:00 2020-01-18T20:30:00;2020-01-18T21:30:00 2020-01-18T22:00:00",
+                "image_thumb": "http://cibul.s3.amazonaws.com/evtbe89b73e6f15d4c11ac1e1c0bbee1eaa0.base.image.jpg",
+                "link": "http://openagenda.com/event/nuit-fantastique-a-angers-la-tarentelle",
+                "free_text": "Pour démarrer cette soirée, venez découvrir cette **danse**, qui, dit-on, guérissait d'un mal engendré par une araignée vénéneuse : la tarentule. Avec la participation du **groupe musical** de l'association _Notes en Bulles et Bal et soufflets._",
+                "address": "49 rue Toussaint 49100 Angers",
+                "department": "Maine-et-Loire",
+                "placename": "Médiathèque Toussaint",
+                "region": "Pays de la Loire",
+                "date_end": "2020-01-18",
+                "lang": "fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.557119,
+                    47.469188
+                ]
+            },
+            "record_timestamp": "2019-12-11T11:29:08+00:00"
+        }
+        
+    ]
+}
